@@ -1,7 +1,8 @@
 # GoldenHead
-Abortive attempt to collect and display fitness data. Uses the Google Fitness API, written in Java.
+"Abortive attempt to collect and display fitness data. Uses the Google Fitness API, written in Java."
 
-My original project as proposed was too large in scope given time constraints, and needed constant revisions and reworkings.
+My original project as proposed was too large in scope given time constraints, and needed constant revisions and reworkings this proved a poor use of my time.
+
 
 Initially the fitness data was only meant to be a small part of the total project. 
 Project was originally conceived to be an in-browser information dashboard, displaying useful data about user's habits, and to 
