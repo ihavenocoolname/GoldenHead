@@ -26,5 +26,5 @@ so I was mostly either staring at unresponsive windows, or coding in the dark an
 at using Android studio outside of a classroom environment, this project served more as a crash course in how to debug than its 
 actual intent. Being to make a funcional Java app.
 
-In future revisions, I intend to make this functional.
+In future revisions, I intend to make this functional. How's that for a lofty goal?
 
